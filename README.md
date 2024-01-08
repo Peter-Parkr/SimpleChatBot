@@ -3,3 +3,4 @@
 
 - saves：保存微调之后的模型
 - self_cognition：简单数据集
+- SimpleChatBot：过程代码
